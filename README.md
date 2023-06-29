@@ -1,5 +1,3 @@
-Note: This project was completed by Yash Raj Sood and other members part of a Master's degree at the University of Auckland. The original repository is private and could not be cloned, so this repository was reinitialized.
-
 # LLAMAFY
 
 Have you ever looked in your wardrobe and decided you have nothing to wear? Have you warn the same outfit two weeks in a row? Who are you? Steve Jobs*?
