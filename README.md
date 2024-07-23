@@ -1,23 +1,5 @@
 # LLAMAFY
 
-Have you ever looked in your wardrobe and decided you have nothing to wear? Have you warn the same outfit two weeks in a row? Who are you? Steve Jobs*?
-
-Well look in panic and worry no more! 
-
-Introducting LLAMAFY!
-
-*Even he did this whole wearing the same outfit everyday thing so that it would be one less decision for him to make. So realistically he should be the one making this not us just saying...
-
-### What we are
-
-Are we human? Dancer? No! We're LLAMAFY! Powered by AI and run by a team of indecisive lavender llamas (that moonlight as insomniacs), we decided to make our lives easier and your lives cooler by simplifying one of the hardest parts of the day; getting dressed!
-
-LLAMAFY aims to make your life at least 10x** easier and save you up to 16*** hours a week by allowing you to forgo making one more decision a day. Based on the items that you already have in your wardrobe, we will generate three potential outfits for you to choose from at a time and make your life that much simpler. 
-
-**Gross overestimation for dramatic effect.
-***Another guestimate. Some of the llamas are not great at maths but are full of enthusiasm.
-## Usage
-
 You can use LLAMAFY with these simple steps:
 
 1. Register with LLAMAFY and submit some of the basics that you have in your wardrobe
